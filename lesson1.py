@@ -32,3 +32,4 @@ elif number==2:
         print('Ошибка! Это программа для людей!\n'*5)
 else:
     print('zadachi s takim nomerom net!!!')
+    
